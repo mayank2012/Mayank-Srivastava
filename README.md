@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank2012" alt="mayank2012" /></a> </p>
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Node.js**
 
